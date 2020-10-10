@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LookinEnabled-com.apple.mobilesafari</key>
+	<true/>
+	<key>LookinEnabled-com.crossutility.quantumult-x</key>
+	<true/>
+	<key>LookinEnabled-com.apple.springboard</key>
+	<false/>
+	<key>LookinEnabled-com.apple.Maps</key>
+	<true/>
+	<key>LookinEnabled-com.apple.mobileslideshow</key>
+	<true/>
+	<key>LookinEnabled-com.apple.mobilecal</key>
+	<true/>
+	<key>LookinEnabled-com.burbn.instagram</key>
+	<true/>
+</dict>
+</plist>

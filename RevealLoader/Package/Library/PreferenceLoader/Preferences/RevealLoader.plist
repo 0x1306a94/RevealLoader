@@ -63,6 +63,20 @@
 					</dict>
 				</array>
 			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<true/>
+				<key>defaults</key>
+				<string>com.0x1306a94.RevealLoader.SpringBoard</string>
+				<key>key</key>
+				<string>RevealLoaderSpringBoard</string>
+				<key>label</key>
+				<string>RevealLoader SpringBoard</string>
+				<key>PostNotification</key>
+				<string>com.0x1306a94.RevealLoader.SpringBoard-preferencesChanged</string>
+			</dict>
 		</array>
 	</dict>
 	<key>title</key>
