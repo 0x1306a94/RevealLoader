@@ -3,7 +3,7 @@ Name: RevealLoader
 Version: 0.1-1
 Description: 
 Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate, applist
+Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: 
 Replaces: 
 Priority: optional
